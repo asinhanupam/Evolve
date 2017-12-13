@@ -9,3 +9,6 @@ else
 {
   return n * factorial( n  - 1 );
 }
+
+
+// user enters 5 and it calculates : 5 * 4 * 3 * 2 
